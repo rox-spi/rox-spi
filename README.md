@@ -1,7 +1,7 @@
 # Hi, I'm Roxanne 👋
 
 🎓 Undergraduate student in Mathematics, Statistics and Operations Research @ University of Malta  
-📈 Passionate about data-driven decision making, with interests in statistical learning, mathematical modelling, and applied machine learning  
+📈 Passionate about data-driven decision making, with interests in statistical learning, mathematical modelling, and applied ML  
 🧠 Focused on using analytical methods to understand patterns, make predictions, and support meaningful insights from data
 
 
