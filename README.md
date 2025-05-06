@@ -5,10 +5,9 @@
 🧠 Focused on using analytical methods to understand patterns, make predictions, and support meaningful insights from data
 
 
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/sWFYgYFjHGugleQdO7" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/transparent-sWFYgYFjHGugleQdO7">via GIPHY</a></p>
-
-
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0328.gif" alt="decorative line" width="100%"/>
+</p>
 
 
 ## 🔧 Languages and Tools:
