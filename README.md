@@ -1,21 +1,18 @@
-# Hi, I'm Roxanne 👋
+<h1>
+  Hi, I'm Roxanne
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3UzdmVwdHEzbG5objhtYjVuajlkamx6eHUxODE5amF5Zm16MXozcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kCMry3iScFtypKZXWn/giphy.gif" height="45" alt="Waving hand"/>
+</h1>
+
+<br>
+
 
 🎓 Undergraduate student in Mathematics, Statistics and Operations Research @ University of Malta  
 📈 Passionate about data-driven decision making, with interests in statistical learning, mathematical modelling, and applied ML  
 🧠 Focused on using analytical methods to understand patterns, make predictions, and support meaningful insights from data
 
+<br>
 
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0328.gif" alt="decorative line" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wweXliZHd4NmJvM3Z5dTBqcHJpcjRmeWo1emZsbWl6YW56OTFmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWFYgYFjHGugleQdO7/giphy.gif" height="80" alt="Divider Animation"/>
-</p>
-
-
-
-## 🔧 Languages and Tools:
+## 🔧 Languages and Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -35,4 +32,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="40" alt="Keras"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn"/>
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" alt="Seaborn"/>
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJiMWd6ZzNlam95aTZxaGplaGhnOGllcDF4eHdxMnV3b205NXpxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x3L991ZHIY871NoOJI/giphy.gif" alt="decorative line" height=30 width="100%"/>
 </p>
