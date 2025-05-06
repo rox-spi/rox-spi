@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0328.gif" alt="decorative line" width="100%"/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0328.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2wweXliZHd4NmJvM3Z5dTBqcHJpcjRmeWo1emZsbWl6YW56OTFmMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sWFYgYFjHGugleQdO7/giphy.gif" alt="stars-gif" width="100%"/>
 </p>
 
 
